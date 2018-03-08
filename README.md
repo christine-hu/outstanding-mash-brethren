@@ -11,7 +11,7 @@ Created in the fall of 2016, this project was intended to spoof Nintendo's Super
 
 ### Launching
 
-After you have installed Processing, download the ZIP file of this repository.  
+After you have installed Processing, download and unzip the ZIP file of this repository.  
 
 Then, 
 * Open the file named outstandingmash.pde.
